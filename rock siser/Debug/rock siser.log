@@ -1,0 +1,11 @@
+﻿  rock siser.cpp
+D:\JSH\rock siser\rock siser\rock siser.cpp(18,13): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\JSH\rock siser\rock siser\rock siser.cpp(113,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\JSH\rock siser\rock siser\rock siser.cpp(118,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\JSH\rock siser\rock siser\rock siser.cpp(124,12): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\JSH\rock siser\rock siser\rock siser.cpp(129,12): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\JSH\rock siser\rock siser\rock siser.cpp(139,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\JSH\rock siser\rock siser\rock siser.cpp(144,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\JSH\rock siser\rock siser\rock siser.cpp(164,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+D:\JSH\rock siser\rock siser\rock siser.cpp(169,23): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  rock siser.vcxproj -> D:\JSH\rock siser\Debug\rock siser.exe
